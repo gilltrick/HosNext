@@ -12,7 +12,7 @@ Currently you can choose from ~1700 categorys
 	-Choose a category from the dropdown and press
 	 the load button above
 	-it takes a while depending your internet connection
-	-sometime the application seems to freeze, give it time
+	//-sometime the application seems to freeze, give it time
 
 Now is a new database.bin in your DataBase folder.
 
@@ -23,5 +23,19 @@ At the top you can choose the database from the dropdown.
 Now load the selected database with the load button.
 You can now click the search button to display all resulst.
 Or you can add some custom search atributes.
+
+###Major Update @23.10.2021###
+
+Added a "endless" ramdon crawl.
+Added a crawl by user commited keywords, also "endless" possible
+Added a favourit list
+Added a lot of filter to get more data
+Application runs way more stable and deals better with external errors
+MultiBrowser compatebility added (firefox, chrome [default!], edge, ie costumizable)
+Crawl options added like: hd-content, duration between xy, or above z.
+You can now import databases from other users
+
+
+##################################################################
 
 Copyright by Patrick Gillmann
