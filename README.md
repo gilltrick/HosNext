@@ -1,5 +1,5 @@
 # HosNext
-kind of special webscraper with database and frontend for adaults only
+kind of special webscraper with database and frontend
 
 HosNext, Version 0.1, date of release: 09.10.2021
 README first:
