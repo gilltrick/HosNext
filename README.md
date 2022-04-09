@@ -12,7 +12,6 @@ Currently you can choose from ~1700 categorys
 	-Choose a category from the dropdown and press
 	 the load button above
 	-it takes a while depending your internet connection
-	//-sometime the application seems to freeze, give it time
 
 Now is a new database.bin in your DataBase folder.
 
